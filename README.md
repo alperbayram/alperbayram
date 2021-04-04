@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/alperbayrmm" <style>
-a:hover {
-  background-color: 	#1DA1F2;
-}
-</style>  onMouseOver="this.style.color='#1DA1F2'"  target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@alperbayram" height="30" width="30" /></a>
+<a href="https://twitter.com/alperbayrmm" style="background-color: red;" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/alper-bayram-a9196a194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://alperbayrmm.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alperbayram" height="30" width="30" /></a>
 
