@@ -10,4 +10,4 @@
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![php](https://img.icons8.com/color/30/php.png)
 
-⚡ I’m currently learning php and javascript
+⚡
