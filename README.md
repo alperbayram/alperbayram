@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h1> 
+<h2 align="center"> Hi There </h2> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 🎓Academic backgroud: 
 * Bachelor of Science in Computer Engineering at `Pamukkale University` 
