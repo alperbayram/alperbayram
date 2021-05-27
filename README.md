@@ -2,6 +2,7 @@
 
 🎓Academic backgroud: 
 * Bachelor of Science in Computer Engineering at `Pamukkale University` 
+*  I’m currently working on natural language processing and web development.
 
 📫 Contacts:
 
