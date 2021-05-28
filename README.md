@@ -10,8 +10,7 @@
 <a href="https://alperbayrmm.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/color/30/medium.png" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/alper-bayram-a9196a194/" target="blank"><img align="center" src="https://img.icons8.com/color/30/linkedin.png" alt="@alperbayram" height="30" width="30" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram)](https://github.com/alperbayram/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/alperbayram/github-readme-stats)
 
 
 
