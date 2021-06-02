@@ -13,6 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117&hide_border=true)](https://github.com/alperbayram/github-readme-stats)
                                           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&langs_count=8)](https://github.com/alperbayram/github-readme-stats)
 
 
 
