@@ -12,7 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&layout=compact)](https://github.com/alperbayram/github-readme-stats)
 
-
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=alperbayram.alperbayram" alt="Visitors">                     
+</p>
 
 
 
