@@ -11,7 +11,7 @@
 <h1></h1>
 <h3>Connect with me:</h3>
 <p><a href="https://twitter.com/alperbayrmm" target="blank"><img src="https://img.shields.io/twitter/follow/alperbayrmm?style=social" alt="alperbayrmm" /></a> </p>
-<a href="https://www.linkedin.com/in/alper-bayram-a9196a194/" target="blank"><img align="center" src="https://img.icons8.com/fluency/30/000000/linkedin.png" alt="@alperbayram" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/alper-bayram/" target="blank"><img align="center" src="https://img.icons8.com/fluency/30/000000/linkedin.png" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://alper-bayram.medium.com/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/30/000000/medium-monogram--v1.png" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://codepen.io/alperbayrm" target="blank"><img align="center" src="https://img.icons8.com/ios/30/000000/codepen.png" alt="@alperbayram" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/devalper"  target="blank" ><img  align="center" src="https://img.icons8.com/windows/32/000000/kaggle.png" alt="@alperbayram" height="30" width="30" /></a>
