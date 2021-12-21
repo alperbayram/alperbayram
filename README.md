@@ -1,11 +1,13 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p>Bachelor of Science in Computer Engineering at `Pamukkale University` </p>
+<p>✨ I’m currently working on Reactjs and Nextjs. </p>
+<p>✨ I’m currently learning Nodejs.</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F720&size=17&vCenter=true&lines=+I'm+Alper+Bayram)](https://git.io/typing-svg)
 
-<p>:mortar_board: Bachelor of Science in Computer Engineering at `Pamukkale University` </p>
-<p>:computer: I’m currently working on web development and natural language processing. </p>
 
+
+<!--<p>I’m currently working on web development and natural language processing. </p>-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117&layout=compact&hide_border=true&langs_count=6&title_color=75eeb2" alt="alperbayram" />
 
 <h1></h1>
