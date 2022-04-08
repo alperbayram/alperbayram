@@ -29,7 +29,7 @@ Bachelor of Science in Computer Engineering at `Pamukkale University`
 
 <h3>Connect with me:</h3>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-0A1A2F?style=flat&logo=twitter)](https://twitter.com/alperbayrmm)&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-0A1A2F?style=flat&logo=twitter)](https://twitter.com/alprbayram)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A1A2F?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/alper-bayram/)&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-0A1A2F?style=flat&logo=medium)](https://alper-bayram.medium.com/)&nbsp;
 [![Codepen](https://img.shields.io/badge/-Codepen-0A1A2F?style=flat&logo=codepen)](https://codepen.io/alperbayrm)&nbsp;
