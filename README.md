@@ -36,6 +36,6 @@ Bachelor of Science in Computer Engineering at `Pamukkale University`
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0A1A2F?style=flat&logo=codepen)](https://www.kaggle.com/devalper)&nbsp;
 
   
-<!--<p>I’m currently working on web development and natural language processing. </p>-->
+<!--<p>I’m currently working on web development and natural language processing.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperbayram&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117&layout=compact&hide_border=true&langs_count=6&title_color=75eeb2" alt="alperbayram" />
-
+</p>-->
