@@ -29,11 +29,12 @@ Bachelor of Science in Computer Engineering at `Pamukkale University`
 
 <h3>Connect with me:</h3>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-0A1A2F?style=flat&logo=twitter)](https://twitter.com/alprbayram)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A1A2F?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/alper-bayram/)&nbsp;
-[![Medium](https://img.shields.io/badge/-Medium-0A1A2F?style=flat&logo=medium)](https://alper-bayram.medium.com/)&nbsp;
-[![Codepen](https://img.shields.io/badge/-Codepen-0A1A2F?style=flat&logo=codepen)](https://codepen.io/alperbayrm)&nbsp;
-[![Kaggle](https://img.shields.io/badge/-Kaggle-0A1A2F?style=flat&logo=codepen)](https://www.kaggle.com/devalper)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-bayram/)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/alprbayram)&nbsp;
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat)](https://www.kaggle.com/devalper)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://alper-bayram.medium.com/)&nbsp;
+[![Codepen](https://img.shields.io/badge/-Codepen-12100E?style=flat&logo=codepen)](https://codepen.io/alperbayrm)&nbsp;
+
 
   
 <!--<p>I’m currently working on web development and natural language processing.
