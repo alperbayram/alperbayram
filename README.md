@@ -1,31 +1,9 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
-Bachelor of Science in Computer Engineering at `Pamukkale University` 
-
+<span> 🎓 Bachelor of Science in Computer Engineering at `Pamukkale University` </span>
+<p> 🤩 I’m currently working on Reactjs and Nodejs.</p>
 <hr/>
-<h3>Tech Stack</h3>
 
-&nbsp;Backend:&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-
-&nbsp;Frontend:&nbsp;
-![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-
-&nbsp;Database:&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
-
-&nbsp;VCS: &nbsp;
-![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-
-&nbsp;IDE's:&nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
- ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman)
-
-
-  
 
 <h3>Connect with me:</h3>
 
